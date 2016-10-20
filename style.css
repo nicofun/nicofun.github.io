@@ -25,3 +25,7 @@ header h1 {
 .wf-nicomoji {
   font-family: "Nico Moji";
 }
+
+h1 .wf-nicomoji {
+  font-size: 175%;
+}
